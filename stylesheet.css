@@ -423,6 +423,7 @@ section{
     color:black;
     background:grey;
     font-size:1.6rem;
+    box-shadow: var(--box-shadow);
 }
 .footer .credits{
     margin-top:2rem;
